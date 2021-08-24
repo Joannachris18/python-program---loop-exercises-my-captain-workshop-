@@ -1,0 +1,12 @@
+list=[12,-7,5,64-14]
+for n in list:
+    if n>0:
+     print(n)
+     
+     
+        
+     list=[12,14,-95,3]
+for n in list:
+    if n>0:
+     print(n)
+     
